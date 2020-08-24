@@ -1,0 +1,1 @@
+//define task doable by each role and check for permissions

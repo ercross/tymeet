@@ -1,0 +1,4 @@
+1. Find a way to make class field private and avoiding the syntax highlight of the field isn't use
+2. See if you can make some fields final and constants where necessary
+3. Every data belonging to user should be created in a small dialog box that will pop up on the screen when user clicks on the fab or the new button
+4. Persist all add and delete event to database
